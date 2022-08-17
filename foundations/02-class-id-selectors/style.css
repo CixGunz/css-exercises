@@ -1,0 +1,19 @@
+/* style.css */
+.odd {
+    background-color:rgb(218, 112, 214);
+}
+
+#num2 {
+    color: rgb(4, 4, 88);
+    font-size:36px
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(100,240,100);
+    font-size: 24px;
+    font-weight:bold
+}
